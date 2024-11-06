@@ -23,7 +23,7 @@ Note that the employee management tools for managers are out of the scope fo the
 ## Representation
 
 Entities are captured in SQLite tables with the following schema.
-![image](ER_Diagram.png)
+![image](project/ER_Diagram.png)
 
 ### Entities
 
